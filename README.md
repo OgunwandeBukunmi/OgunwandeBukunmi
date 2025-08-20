@@ -62,7 +62,7 @@
 
 - 🏗 **Full-Stack Development** — 3+ years building projects with Node.js, Express, MongoDB, React, and more.  
 - 🛒 **Dropshipping/E-commerce** — Founded multiple Shopify stores and understanding marketing strategies and funnel
-- 💹 **Fintech SaaS** — Created **[CentKey](https://bankapp-frontend-three.vercel.app/)**, a platform helping users collate assets across bank accounts.  
+- 💹 **Fintech SaaS** — Created **[CentKey](https:centkey.com/)**, a platform helping users collate assets across bank accounts.  
 - 📊 **Crypto/Blockchain** — Worked on Telegram trading groups, DEX integrations, and token data visualization with D3.js.  
 - 🤖 **AI/ML** — Currently on a roadmap to master **data science, ML, and AI for business and development**.  
 
