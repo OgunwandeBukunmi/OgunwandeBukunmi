@@ -80,14 +80,10 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluwabukunmiogunwande&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwabukunmiogunwande&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OgunwandeBukunmi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgunwandeBukunmi&layout=compact&theme=radical)  
 
-</div>
-!![YourName'sGitHubstats(https://githubreadmestats.vercel.app/apiusername=OgunwandeBukunmi&show_icons=true&theme=radical)
-
-!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OgunwandeBukunmi&layout=compact&theme=radical)
-
+---
 
 ## 🌐 Let's Connect  
 
